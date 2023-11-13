@@ -1,0 +1,20 @@
+.contentContainer{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.contentLayout{
+    display: flex;
+    flex-direction: row;
+}
+
+.contentLayout img{
+    display: block;
+    position: relative;
+    width: 300px;
+    margin-right: 50px;
+}
+.contentLayout p{
+    flex:1
+}

@@ -1,0 +1,17 @@
+.buttonContainer{
+    margin:10xp;
+}
+.buttonContainer button{
+    background-color:#8EB010 ;
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: bold;
+    height: 50px;
+    width: 100px;
+}
+
+.buttonContainer button:hover{
+    background-color:#d6f079 ;
+    color: #FFFFFF;
+    cursor: pointer;
+}
